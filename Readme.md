@@ -1,0 +1,1 @@
+Repository for storing EDID's that have been modified to support HDR and various resolutions.
